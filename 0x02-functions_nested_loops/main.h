@@ -1,5 +1,5 @@
 #ifndef main_prototype
-#define main prototype
+#define main_prototype
 
 int _putchar(char c);
 void print_alphabet(void);
